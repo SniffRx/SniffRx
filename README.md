@@ -3,7 +3,7 @@
 <!--![Суда вставить картинку]()-->
 Позже опишу себя
 
-Skills: REACT / JS / PHP / HTML / CSS / BOOTSTRAP
+Skills: REACT / JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP
 - 🔭 I’m currently working on cv sites and react test sites.
 - 🌱 I’m currently learning React and JS.<!-- 👯 I’m looking to collaborate on ..-->
 - 🤔 I’m looking for help with React and JS.
