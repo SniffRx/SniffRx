@@ -1,6 +1,6 @@
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=cylinder&text=SniffRx&color=gradient&desc=REACT%20/%20JS%20/%20PHP%20/%20MYSQL%20/%20HTML%20/%20CSS%20/%20BOOTSTRAP&descAlignY=80&height=120&&fontAlignY=45"/></a>
 
-### Hi there 👋, my name is Sergey
+<div align="center">#### Hi there 👋, my name is Sergey
 #### I am Frontend programmer
 <!--![Суда вставить картинку]()-->
 Позже опишу себя
@@ -21,8 +21,7 @@ Skills: REACT / JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP
 
 ![GitHub metrics](https://metrics.lecoq.io/sniffrx)  
 
-![Profile views](https://gpvc.arturio.dev/sniffrx)  
-
+![Profile views](https://gpvc.arturio.dev/sniffrx)</div>
 <!--
 **SniffRx/SniffRx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
