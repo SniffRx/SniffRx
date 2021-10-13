@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&text=SniffRx&color=gradient&desc=REACT%20/%20JS%20/%20PHP%20/%20MYSQL%20/%20HTML%20/%20CSS%20/%20BOOTSTRAP&descAlignY=80&height=120&&fontAlignY=45"/>
+<img href="" src="https://capsule-render.vercel.app/api?type=cylinder&text=SniffRx&color=gradient&desc=REACT%20/%20JS%20/%20PHP%20/%20MYSQL%20/%20HTML%20/%20CSS%20/%20BOOTSTRAP&descAlignY=80&height=120&&fontAlignY=45"/>
 
 ### Hi there 👋, my name is Sergey
 #### I am Frontend programmer
