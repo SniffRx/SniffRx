@@ -15,10 +15,12 @@ Skills: REACT / JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
 </ul>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sniffrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sniffrx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sniffrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](fortik-studio.ru)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniffrx)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sniffrx&show_icons=true)  
+  
+<!--div align=left>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniffrx)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sniffrx&show_icons=true)
+  
+  </div-->
 
 ![GitHub metrics](https://metrics.lecoq.io/sniffrx)  
 </div>
