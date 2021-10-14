@@ -5,14 +5,12 @@
 <!--![Суда вставить картинку]()-->
 
 Skills: REACT / JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
-![Profile views](https://gpvc.arturio.dev/sniffrx)
-<ul>
-<li>🔭 I’m currently working on cv sites and react test sites.</li>
-<li>🌱 I’m currently learning React and JS.<!-- 👯 I’m looking to collaborate on ..--></li>
-<li>🤔 I’m looking for help with React and JS.</li>
-<li>💬 Ask me about games.</li>
-<li>📫 How to reach me: write me in social or email.</li>
-</ul>
+![Profile views](https://gpvc.arturio.dev/sniffrx) [![GitHub Thaiane](https://img.shields.io/github/followers/sniffrx?label=follow&style=social)](https://github.com/sniffrx) ![](https://visitor-badge.glitch.me/badge?page_id=sniffrx) <a href="https://github.com/SniffRx?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8"/></a> <a href="https://github.com/SniffRx?tab=repositories&q=&type=&language=css&sort="><img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8"/></a> <br><br>
+🔭 I’m currently working on cv sites and react test sites.<br>
+🌱 I’m currently learning React and JS.<!-- 👯 I’m looking to collaborate on ..--><br>
+🤔 I’m looking for help with React and JS.<br>
+💬 Ask me about games.<br>
+📫 How to reach me: write me in social or email.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sniffrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sniffrx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sniffrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](fortik-studio.ru)  
   
