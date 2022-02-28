@@ -25,7 +25,7 @@ Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
 <h3 align="left">🧰 Frameworks and libraries</h3><br>
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <!--a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a-->
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -48,8 +48,8 @@ Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <!--a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a-->
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -63,8 +63,8 @@ Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </details><br>
 🔭 I’m currently working on cv sites and react test sites.<br>
-🌱 I’m currently learning React and JS.<!-- 👯 I’m looking to collaborate on ..--><br>
-🤔 I’m looking for help with React and JS.<br>
+🌱 I’m currently learning Symfony.<!-- 👯 I’m looking to collaborate on ..--><br>
+🤔 I’m looking for help with find job.<br>
 💬 Ask me about games.<br>
 📫 How to reach me: write me in social or email.
 <br><br>
