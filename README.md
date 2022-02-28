@@ -1,7 +1,7 @@
 <div align="center"> <a href="#"><img src="https://capsule-render.vercel.app/api?type=cylinder&text=SniffRx&color=gradient&desc=JS%20/%20PHP%20/%20MYSQL%20/%20HTML%20/%20CSS%20/%20BOOTSTRAP&descAlignY=80&height=120&&fontAlignY=45"/></a>
 
   <h2> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, my name is Sergey</h2>  
-<h4>Frontend developer, Gamer, Streamer</h4>  
+<h4>Fullstack developer, Gamer, Streamer</h4>  
 <!--![Суда вставить картинку]()-->
 
 Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
