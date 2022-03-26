@@ -69,15 +69,17 @@ Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
 📫 How to reach me: write me in social or email.
 <br><br>
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sniffrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sniffrx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sniffrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](fortik-studio.ru)  
-  
-<!--div align=left>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sniffrx)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sniffrx&show_icons=true)
-  
-  </div-->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sniffrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sniffrx/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sniffrx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](fortik-studio.ru) 
 
 ![GitHub metrics](https://metrics.lecoq.io/sniffrx)  
+</div>
+
+<div align="center">
+  
+<a href="" stele="color: #00000000;">
+    <img style='height: 100%; width: 50%' align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sniffrx&show_icons=true&include_all_commits=true&theme=vue"/>
+    <img style='height: 100%; width: 42%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniffrx&include_all_commits=true&theme=vue&layout=compact&langs_count=10"/></a>
+
 </div>
 <!--
 **SniffRx/SniffRx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
