@@ -62,9 +62,9 @@ Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
   <br/>
   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </details><br>
-🔭 I’m currently working on cv sites and react test sites.<br>
-🌱 I’m currently learning Symfony.<!-- 👯 I’m looking to collaborate on ..--><br>
-🤔 I’m looking for help with find job.<br>
+🔭 I’m currently working on game development and sites projects.<br>
+  🌱 I’m currently learning <a href="https://github.com/dannyvankooten/AltoRouter">AltoRouter</a> and Unreal Engine 5.<!-- 👯 I’m looking to collaborate on ..--><br>
+🤔 I’m looking for help with learn Unreal Engine.<br>
 💬 Ask me about games.<br>
 📫 How to reach me: write me in social or email.
 <br><br>
