@@ -1,23 +1,27 @@
-<div align="center"> <a href="#"><img src="https://capsule-render.vercel.app/api?type=cylinder&text=SniffRx&color=gradient&desc=JS%20/%20PHP%20/%20MYSQL%20/%20HTML%20/%20CSS%20/%20BOOTSTRAP&descAlignY=80&height=120&&fontAlignY=45"/></a>
+<div align="center"> <a href="#"><img src="https://capsule-render.vercel.app/api?type=cylinder&text=SniffRx&color=gradient&desc=HTML%20/%20CSS%20/%20BOOTSTRAP%20/%20JS%20/%20JQUERY%20/%20PHP%20/%20MYSQL%20/%20REACT&descAlignY=80&height=120&&fontAlignY=45" /></a>
 
   <h2> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, my name is Sergey</h2>  
 <h4>Fullstack developer, Gamer, Streamer</h4>  
 <!--![Суда вставить картинку]()-->
 
-Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
+Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY / PHP / MYSQL / REACT <br><br>
 ![Profile views](https://gpvc.arturio.dev/sniffrx) [![GitHub Thaiane](https://img.shields.io/github/followers/sniffrx?label=follow&style=social)](https://github.com/sniffrx) ![](https://visitor-badge.glitch.me/badge?page_id=sniffrx)
   <details> 
   <summary>💻 Used tools</summary>
     <h3 align="left">👨‍💻 Programming languages</h3><br>
 
 <p>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASniffRx+language%3Ahtml"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASniffRx+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASniffRx+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASniffRx+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ASniffRx+language%3Amarkdown"><img alt="MARKDOWN" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ajavascript"><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+  <a href="#"><img alt="JQUERY" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+  <a href="#"><img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ajavascript"><img alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  
+  
     <a href="https://github.com/search?q=user%3ASniffRx+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ASniffRx+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ASniffRx+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
@@ -25,10 +29,12 @@ Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
 <h3 align="left">🧰 Frameworks and libraries</h3><br>
 
 <p>
-    <!--a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a-->
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="#"><img alt="REACT ROUTER" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
+  
+  
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
@@ -37,16 +43,42 @@ Skills: JS / PHP / MYSQL / HTML / CSS / BOOTSTRAP <br><br>
 <h3 align="left">🗄️ Databases and cloud hosting</h3><br>
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MARIADB" src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
+    <a href="#"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MONGODB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="REDIS" src ="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
+ 
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
 <h3 align="left"> 💻 Software and tools</h3><br>
-
+    <p>IDE</p>
 <p>
+  <a href="#"><img alt="INTELLIJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+  <a href="#"><img alt="WEBSTORM" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"></a>
+  <a href="#"><img alt="PHPSTORM" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"></a>
+  <a href="#"><img alt="RIDER" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"></a>
+  <a href="#"><img alt="NOTEPAD++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
+  <a href="#"><img alt="SUBLIME TEXT" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+  <a href="#"><img alt="VISUAL STUDIO" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+  <a href="#"><img alt="VISUAL STUDIO CODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <p>TERMINAL</p>
+    <a href="#"><img alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="HYPER" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white"></a>
+    <a href="#"><img alt="WINDOWS TERMINAL" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"></a>
+    <a href="#"><img alt="POWERSHELL" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
+    
+
+
+
+    
+    <p>DESIGN</p>
+    <p>GAME ENGINE</p>
+  <a href="#"><img alt="UNITY" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"></a>
+  <a href="#"><img alt="UNREAL ENGINE" src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white"></a>
+ 
+  
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <!--a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a-->
@@ -94,34 +126,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Aceylon"><img alt="Ceylon" src="https://custom-icon-badges.herokuapp.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.herokuapp.com/badge/Google%20Apps%20Script-02569B.svg?logo=color-swatch&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ASniffRx+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
-
 -->
