@@ -8,8 +8,9 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY / PHP / MYSQL / REACT <br><br>
 ![Profile views](https://gpvc.arturio.dev/sniffrx) [![GitHub Thaiane](https://img.shields.io/github/followers/sniffrx?label=follow&style=social)](https://github.com/sniffrx) ![](https://visitor-badge.glitch.me/badge?page_id=sniffrx)
   <details> 
   <summary>💻 Used tools</summary>
-    <h3 align="left">👨‍💻 Programming languages</h3><br>
-
+  
+  <br><b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i><br>
+  <h3 align="left">👨‍💻 Programming languages</h3><br>
 <p>
   <a href="https://github.com/search?q=user%3ASniffRx+language%3Ahtml"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ASniffRx+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -95,7 +96,6 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY / PHP / MYSQL / REACT <br><br>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>-->
 </p>
   <br/>
-  <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 </details><br>
 🔭 I’m currently working on game development and sites projects.<br>
   🌱 I’m currently learning <a href="https://github.com/dannyvankooten/AltoRouter">AltoRouter</a> and Unreal Engine 5.<!-- 👯 I’m looking to collaborate on ..--><br>
