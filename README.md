@@ -118,7 +118,7 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY / PHP / MYSQL / REACT <br><br>
   
 <a href="" stele="color: #00000000;">
     <img style='height: 100%; width: 50%' align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sniffrx&show_icons=true&include_all_commits=true&theme=vue"/>
-    <img style='height: 100%; width: 42%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniffrx&include_all_commits=true&theme=vue&layout=compact&langs_count=10"/></a>
+    <img style='height: 100%; width: 42%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sniffrx&include_all_commits=true&theme=vue&layout=compact&langs_count=6"/></a>
 
 </div>
 <!--
