@@ -2,7 +2,7 @@
 
   <h2> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, my name is Sergey</h2>  
 <h4>Fullstack developer, Gamer, Streamer</h4>  
-<!--![Суда вставить картинку]()-->
+<!--![Сюда вставить картинку]()-->
 
 Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY / PHP / MYSQL / REACT <br><br>
 ![Profile views](https://gpvc.arturio.dev/sniffrx) [![GitHub Thaiane](https://img.shields.io/github/followers/sniffrx?label=follow&style=social)](https://github.com/sniffrx) ![](https://visitor-badge.glitch.me/badge?page_id=sniffrx)
@@ -98,7 +98,7 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY / PHP / MYSQL / REACT <br><br>
   <br/>
 </details><br>
 🔭 I’m currently working on game development and sites projects.<br>
-  🌱 I’m currently learning <a href="https://github.com/dannyvankooten/AltoRouter">AltoRouter</a> and Unreal Engine 5.<!-- 👯 I’m looking to collaborate on ..--><br>
+  🌱 I’m currently learning <a href="https://laravel.com">Laravel</a> and Unreal Engine 5.<!-- 👯 I’m looking to collaborate on ..--><br>
 🤔 I’m looking for help with learn Unreal Engine.<br>
 💬 Ask me about games.<br>
 📫 How to reach me: write me in social or email.
