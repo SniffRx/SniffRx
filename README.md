@@ -1,10 +1,9 @@
-<div align="center"> <a href="#"><img src="https://capsule-render.vercel.app/api?type=cylinder&text=SniffRx&color=gradient&desc=Junior FullStack Developer&descAlignY=80&height=120&&fontAlignY=45" /></a>
-
+<div align="center">
   <h2> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, my name is Sergey</h2>  
 <h4>Fullstack developer, Gamer, Streamer</h4>  
 <!--![Сюда вставить картинку]()-->
 
-Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY / PHP / MYSQL / REACT <br><br>
+Skills: HTML / CSS / BOOTSTRAP / JS/TS / JQUERY / PHP / MYSQL / REACT <br><br>
 ![Profile views](https://gpvc.arturio.dev/sniffrx) [![GitHub Thaiane](https://img.shields.io/github/followers/sniffrx?label=follow&style=social)](https://github.com/sniffrx) ![](https://visitor-badge.glitch.me/badge?page_id=sniffrx)
   <details> 
   <summary>💻 Used tools</summary>
@@ -98,9 +97,9 @@ Skills: HTML / CSS / BOOTSTRAP / JS / JQUERY / PHP / MYSQL / REACT <br><br>
   <br/>
 </details><br>
 🔭 I’m currently working on game development and sites projects.<br>
-  🌱 I’m currently learning <a href="https://laravel.com">Laravel</a> and Unreal Engine 5.<!-- 👯 I’m looking to collaborate on ..--><br>
+  🌱 I’m currently learning <a href="https://laravel.com">Laravel</a> and vue.js.<!-- 👯 I’m looking to collaborate on ..--><br>
 🤔 I’m looking for help with learn Unreal Engine.<br>
-💬 Ask me about games.<br>
+💬 Ask me about games and projects.<br>
 📫 How to reach me: write me in social or email.
 <br><br>
   <a href="https://t.me/sniffrxlife"><img alt="TELEGRAM" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
