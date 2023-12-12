@@ -97,8 +97,8 @@ Skills: HTML / CSS / BOOTSTRAP / JS/TS / JQUERY / PHP / MYSQL / REACT <br><br>
   <br/>
 </details><br>
 🔭 I’m currently working on game development and sites projects.<br>
-  🌱 I’m currently learning <a href="https://laravel.com">Laravel</a> and vue.js.<!-- 👯 I’m looking to collaborate on ..--><br>
-🤔 I’m looking for help with learn Unreal Engine.<br>
+  🌱 I’m currently learning <a href="https://laravel.com">Laravel</a> and vite.js + react + express.js.<!-- 👯 I’m looking to collaborate on ..--><br>
+🤔 I’m looking for help with learn typescript and frameworks.<br>
 💬 Ask me about games and projects.<br>
 📫 How to reach me: write me in social or email.
 <br><br>
