@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, my name is Sergey</h2>  
+  <img src="https://lanyard.kyrie25.me/api/287317759761711106?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"> 
 <h4>Fullstack developer, Gamer, Streamer</h4>  
 <!--![Сюда вставить картинку]()-->
 
