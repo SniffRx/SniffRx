@@ -1,6 +1,190 @@
+
 <div align="center">
+  
+  <!-- Dynamic Discord Presence Card -->
+  <img src="https://lanyard.kyrie25.me/api/287317759761711106?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" alt="Discord Presence">
+
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7E37F9&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Fullstack+Developer;Game+Modder+%7C+Server+Architect" alt="Typing SVG">
+  </a>
+
+  <!-- Tech Stack Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </p>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+#### 🎮 [Steam Library Manager](https://github.com/SniffRx/steam-library)
+**Laravel + React** | Steam game collection management system
+
+```
+// Smart library organization
+📊 Game statistics & analytics
+🔍 Advanced search & filtering
+🎯 Personalized recommendations
+```
+
+</td>
+<td width="50%">
+
+#### 🛠️ [DeployNinja](https://github.com/SniffRx/DeployNinja)
+**Docker + Automation** | Service deployment made simple
+
+```
+# One-command deployments
+⚡ Docker-based infrastructure
+📦 Pre-configured services
+🔐 Security best practices
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 💻 Current Focus
+
+```
+Development:
+  - 🎮 Game modifications with BepInEx & Unity
+  - 🌐 Laravel fullstack applications
+  - 🤖 n8n workflow automation
+  - ⚡ Docker infrastructure & deployment
+
+Learning:
+  - 🧠 LLM models & AI integration
+  - 🎯 Unreal Engine 5 advanced features
+  - 📚 Programming languages exploration
+  - 🔄 Process automation (n8n, CI/CD)
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<details>
+<summary><b>💼 Backend & Infrastructure</b></summary>
+<br>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend & UI</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎮 Game Development</b></summary>
+<br>
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![BepInEx](https://img.shields.io/badge/BepInEx-FF6B6B?style=flat-square&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ Tools & Environment</b></summary>
+<br>
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SniffRx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7E37F9&icon_color=B48EF7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SniffRx&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=7E37F9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SniffRx&theme=radical&hide_border=true&background=0D1117&ring=7E37F9&fire=B48EF7&currStreakLabel=E568C4" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🤝 Looking to Collaborate On
+
+- 🧠 LLM & GPT integration projects
+- 🎤 STT/TTS/RVC voice processing systems
+- 🎮 Game modifications & automation tools
+- 🐳 Microservice architectures with Docker
+
+**Got an interesting project? Let's connect!**
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sniffrxlife)
+  <a href="https://discord.gg/P822q7XN3n"><img alt="SNIFFRX OFFICIAL" src="https://img.shields.io/discord/940645913653809276.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge"></a>
+  [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/sniffrx)
+  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/sniffrx)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqpi610ZDvZR6MpEO8UDTqw)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sniffrx/)
+  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/sniffrx)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SniffRx&color=7E37F9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  
+  **💜 Thanks for visiting! Don't forget to ⭐ interesting repositories**
+</div>
+
+
+
+
+
+
+
+
+<!-- <div align="center">
   <img src="https://lanyard.kyrie25.me/api/287317759761711106?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"> 
-<h3>Fullstack developer, Gamer, Streamer</h3>  
+<h3>Fullstack developer, Gamer, Streamer</h3>   -->
 <!--![Сюда вставить картинку]()-->
 
 <!--Skills: HTML / CSS / BOOTSTRAP / JS/TS / JQUERY / PHP / MYSQL / REACT <br><br>-->
@@ -96,8 +280,8 @@
 <!--   <br/> -->
 <!-- </details><br> -->
 
-🔭 I’m currently working on bots and sites projects.<br>
-  🌱 I’m currently learning LLM, CUDA, STT, TTS, RVC and etc...<!-- 👯 I’m looking to collaborate on ..--><br>
+<!--🔭 I’m currently working on bots and sites projects.<br>
+  🌱 I’m currently learning LLM, CUDA, STT, TTS, RVC and etc...<!-- 👯 I’m looking to collaborate on ..--<br>
 🤔 I’m looking for help with learn LLM GPT models and create STT-TTS-RVC project<br>
 💬 Ask me about games, bots and projects.<br>
 📫 How to reach me: write me in social or email.
@@ -110,5 +294,5 @@
   <a href="https://www.instagram.com/sniffrx/"><img alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.reddit.com/user/sniffrx"><img alt="REDDIT" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 
-<!--![GitHub metrics](https://metrics.lecoq.io/sniffrx)-->
-</div>
+<!--![GitHub metrics](https://metrics.lecoq.io/sniffrx)--
+</div -->
